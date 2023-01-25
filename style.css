@@ -1,0 +1,46 @@
+body{     /* corpo */
+
+   background: rgb(50, 50, 235) ;  /* fundo */
+   font : normal 15 pt Arial;        /*fonte e tamanho */
+   
+  
+
+}
+
+header{           /*cabeçalho*/
+
+    color: black;    /* cor da letras  */
+    text-align: center;   /* deixar o texto no centro */
+
+}
+section{         /* sessão  */
+   
+  background: white;  /* fundo dentro da section */
+  border-radius: 10px;  /* borda arrendondada  */
+  padding: 15px;        /* abre a borda deixando maior*/
+  width: 300px;         /* aumenta e diminui a borda e espaço */
+  margin: auto;         /* trouxe a borda para o centro */
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.301);  /* sombra da borda */
+
+}
+
+div {
+
+  text-align: center;
+  padding: 8px;
+
+
+}
+
+
+footer{      /* Rodapé */
+
+    color: black;       /* cor da letras  */
+    text-align: center;   /* deixar o texto no centro */
+    font-style: italic;   /* deixa o texto italico   */
+
+}
+
+
+
+
